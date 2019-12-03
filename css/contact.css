@@ -1,0 +1,30 @@
+input, textarea{
+  width: 100%;
+}
+
+input, textarea{
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 14px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#submit {
+  background-color: #0B78D0;
+  color: white;
+  width: 150px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.1);
+}
+
+#submit:hover {
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+

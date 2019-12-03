@@ -1,0 +1,39 @@
+img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.case-study-header {
+  font-size: 20px;
+  color: #0B78D0;
+  padding-bottom: 0;
+  font-weight: 300;
+}
+
+.stickies {
+  max-width: 500px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#sticky-key, #small-menu {
+  max-width: 500px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#product-hunt {
+  max-width: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#ui-elements {
+  max-width: 600px;
+}
+
+#colors {
+  max-width: 600px;
+}

@@ -1,0 +1,114 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+.content {
+  overflow: hidden;
+  max-width: 900px;
+  margin: 0 30px;
+  overflow: visible;
+}
+
+@media screen and (min-width: 964px) {
+  .content {
+    margin: 0 auto;
+  }
+}
+h1 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 50px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 28px;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 50px;
+  padding: 20px 0 20px 0;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  color: #333333;
+  letter-spacing: 3.1px;
+  padding-bottom: 10px;
+}
+
+h4 {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+  letter-spacing: 3.1px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+p {
+  font-family: "Lato";
+  font-weight: 400;
+  font-size: 18px;
+  color: #666666;
+  letter-spacing: 0;
+  line-height: 31px;
+  padding-bottom: 20px;
+}
+
+a {
+  font-family: "Lato";
+  font-weight: 400;
+  font-size: 18px;
+  color: #0B78D0;
+  letter-spacing: 0;
+  line-height: 31px;
+  transition: color 0.1s ease-out;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #67B7F7;
+  transition: color 0.1s ease-out;
+  text-decoration: none;
+}
+
+a.skip-to-content {
+  left:-1000px;
+  position:absolute;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+
+a.skip-to-content:focus, a.skip-to-content:active {
+  color: #fff;
+  background-color:#000;
+  padding: 10px;
+  border:2px solid black;
+  font-size:16px;
+  left: auto;
+  top: auto;
+  width: 30%;
+  height: auto;
+  overflow:auto;
+  margin: 10px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    animation-play-state: paused !important;
+    transition: none !important;
+    scroll-behavior: auto !important; 
+  }
+}
