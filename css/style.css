@@ -74,7 +74,6 @@ a {
   font-size: 14px;
   color: #0F6BFF;
   letter-spacing: 0;
-  line-height: 31px;
   transition: color 0.1s ease-out;
   text-decoration: none;
 }
@@ -109,7 +108,7 @@ a.skip-to-content:focus, a.skip-to-content:active {
 }
 
 .spacer {
-  height: 40px;
+  height: 60px;
 }
 
 .getting-started {
@@ -142,6 +141,46 @@ a.skip-to-content:focus, a.skip-to-content:active {
 .getting-started-block img {
   height: 30px;
   margin-bottom: 10px;
+  opacity: .6;
+}
+
+.steps {
+  display: flex;
+  padding-top: 20px;
+}
+
+.steps h2{
+  color: #0F6BFF;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.step {
+  width: 200px;
+  margin-right: 30px;
+}
+
+.news-block {
+  margin-top: 20px;
+}
+
+.news-block h2{
+  font-size: 20px;
+}
+
+.news-block .label {
+  color: #0F6BFF;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  padding-bottom: 5px;
+}
+
+.news-block img {
+  height: 20px;
+  margin-right: 10px;
 }
 
 .publications {
@@ -181,6 +220,44 @@ a.skip-to-content:focus, a.skip-to-content:active {
   transform: translateY(-2px);
   box-shadow: 0px 10px 6px -6px rgba(0,0,0,0.22);
   transition: .1s ease-in;
+}
+
+.pub-page {
+  width: 100%;
+}
+
+.common-doc{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.common-doc-block {
+  width: 100%;
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.12);
+}
+
+@media screen and (min-width: 900px) {
+  .common-doc-block {
+    width: 49%;
+  }
+}
+
+.common-doc-block:hover {
+  box-shadow: 0px 0px 14px -1px rgba(0,0,0,0.22);
+  transition: .1s ease-in;
+}
+
+.common-doc-block p {
+  padding: 0;
+}
+
+.community {
+  margin-top: 30px;
 }
 
 @media (prefers-reduced-motion: reduce) {
