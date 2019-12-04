@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="223px" viewBox="0 0 222 223" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-3.000000, -1.000000)">
+            <path d="M115.183282,5.36656315 L222.82918,220.658359 C223.570147,222.140295 222.969474,223.942314 221.487539,224.683282 C221.070973,224.891565 220.611633,225 220.145898,225 L4.85410197,225 C3.19724772,225 1.85410197,223.656854 1.85410197,222 C1.85410197,221.534265 1.96253724,221.074926 2.17082039,220.658359 L109.816718,5.36656315 C110.557686,3.88462765 112.359705,3.28395461 113.841641,4.02492236 C114.422223,4.31521346 114.89299,4.78598094 115.183282,5.36656315 Z" id="Triangle" fill="#0F6BFF" fill-rule="nonzero" transform="translate(112.500000, 112.500000) rotate(-90.000000) translate(-112.500000, -112.500000) "></path>
+            <text id="SOAR" font-family="OpenSans-Bold, Open Sans" font-size="40" font-weight="bold" letter-spacing="3" fill="#FFFFFF">
+                <tspan x="83.4648438" y="128">SOAR</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

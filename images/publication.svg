@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="141px" viewBox="0 0 117 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3F89FF" offset="0%"></stop>
+            <stop stop-color="#0F6BFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#77ABFF" offset="0%"></stop>
+            <stop stop-color="#7AADFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <path d="M79.2685066,-1.42108547e-14 L117,37.7314934 L117,136 C117,138.761424 114.761424,141 112,141 L5,141 C2.23857625,141 3.38176876e-16,138.761424 0,136 L0,5 C-3.38176876e-16,2.23857625 2.23857625,-1.37035894e-14 5,-1.42108547e-14 L79.2685066,-1.42108547e-14 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <path d="M79,-2.87769808e-13 L112.731493,-2.87769808e-13 C114.940632,-2.8817562e-13 116.731493,1.790861 116.731493,4 L116.731493,37.7314934 L79,-2.80664381e-13 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero" transform="translate(97.865747, 18.865747) scale(-1, -1) translate(-97.865747, -18.865747) "></path>
+            <text id="Publication" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" letter-spacing="0.75" fill="#FFFFFF">
+                <tspan x="26.0644531" y="76">Publication</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
